@@ -1,0 +1,13 @@
+dist: xenial
+language: generic
+
+install:
+  - curl -L https://raw.githubusercontent.com/core-man/install/master/install-hugo.sh | bash
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: ${GH_TOKEN}
+  local_dir: public
+  on:
+    branch: master
