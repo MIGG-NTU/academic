@@ -4,6 +4,9 @@ language: generic
 install:
   - curl -L https://raw.githubusercontent.com/core-man/install/master/install-hugo.sh | bash
 
+script:
+  - ./hugo
+
 deploy:
   provider: pages
   skip_cleanup: true
