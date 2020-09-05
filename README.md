@@ -1,5 +1,7 @@
 # MIGG-NTU homepage
 
+Update the [academic homepage](https://github.com/MIGG-NTU/academic) for Prof. Tong.
+
 - [Notes](#notes)
 - [References](#references)
 
