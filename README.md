@@ -8,11 +8,15 @@ Update the [academic homepage](https://github.com/MIGG-NTU/academic) for Prof. T
 
 ## Notes
 
-There are some [prerequisites](https://wowchemy.com/docs/install-locally/) If we edit our site on the local PC.
+There are some [prerequisites](https://wowchemy.com/docs/install-locally/) if we edit our site on the local PC.
 - [hugo](https://gohugo.io/): the world’s fastest framework for building websites | [Docs](https://gohugo.io/documentation/) | [Releases](https://github.com/gohugoio/hugo/releases)
     - `Hugo Extended v0.73-v0.74` (Sep. 5 2020)
 - [git](https://git-scm.com/downloads): a free and open source distributed version control system
 - [go](https://golang.org/): an open source programming language that makes it easy to build simple, reliable, and efficient software.
+
+I use [travis](https://docs.travis-ci.com/) to deploy the website on GitHub, referring to the following tutorials:
+- [持续集成服务 Travis CI 教程](http://www.ruanyifeng.com/blog/2017/12/travis_ci_tutorial.html)
+- [使用 Travis CI 自动部署 Hugo 博客](https://mogeko.me/2018/028/)
 
 
 ## References
@@ -23,6 +27,8 @@ There are some [prerequisites](https://wowchemy.com/docs/install-locally/) If we
 - Web examples
     - [uOttawa Geophysics](https://www.uogeophysics.com/) | [GitHub](https://github.com/paudetseis/academic-kickstart)
     - [GMT中文社区](https://gmt-china.org/) | [GitHub](https://github.com/gmt-china/gmt-china.org)
+    - [Dongdong Tian's homepage](https://msu.edu/~tiandong/) | [GitHub](https://github.com/seisman/academic-homepage)
+    - [Jiayuan Yao's homepage](https://core-man.github.io/academic-homepage/) | [GitHub](https://github.com/core-man/academic-homepage)
 
 - Tutorials
     - [academic](https://skyao.io/learning-hugo/theme/academic.html)
