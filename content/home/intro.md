@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Mathematical Imaging and Geophysics Group
+title: Develop advanced mathematical imaging tools to investigate the Earth's interior
 subtitle:
 
 design:

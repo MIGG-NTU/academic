@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD candidate at Nanyang Technological University
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,23 +18,16 @@ organizations:
   url: "https://www.ntu.edu.sg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: MIGG member.
+bio: PhD Candidate at NTU
 
 interests:
-- Seismic Imaging
-- Structures of the Earth’s Deep Interior
-- Seismic Monitoring
-- Repeating Earthquake
-- Inverse Problems
+- Numerical Methods
 
 education:
   courses:
-  - course: PhD in Geophysics
-    institution: University of Science and Technology of China
-    year: 2018
-  - course: BSc in Artificial Intelligenc
-    institution: University of Science and Technology of China
-    year: 2012
+  - course: BSc in Mathematics
+    institution: Sichuan University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,27 +37,21 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: orcid
-  icon_pack: ai
-  link: http://orcid.org/0000-0001-7036-4238
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=y24TlWQAAAAJ
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Jiayuan_Yao
-- icon: github
-  icon_pack: fab
-  link: https://github.com/core-man
-- icon: blog
-  icon_pack: fas
-  link: https://core-man.github.io/blog
-- icon: globe
-  icon_pack: fas
-  link: https://core-man.github.io/link
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:jiayuanyao@ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
+#- icon: orcid
+#  icon_pack: ai
+#  link: http://orcid.org/
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "YQI002@e.ntu.edu.sg"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -80,6 +67,8 @@ user_groups:
 - PhD Candidates
 ---
 
-Jiayuan Yao is a Research Fellow in Geophysics at [Nanyang Technological University](http://spms.ntu.edu.sg), cooperation with Prof. [Ping Tong](http://www.ntu.edu.sg/home/tongping). He received his Ph.D. degree from [University of Science and Technology of China](http://en.ustc.edu.cn) in 2018 advised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen).
+Yingyu Qi is a PhD candidate at [Nanyang Technological University](http://spms.ntu.edu.sg), advised by Prof. [Ping Tong](http://www.ntu.edu.sg/home/tongping). He joined MIG in August 2017. He is now workding on developing advanced inversion method for Moho depth determination.
 
-His research interests include the seismic structure of the Earth’s interior with special focus on the lower mantle and inner core, seismic monitoring of North Korea's nuclear tests, high-precision locations of earthquakes, and repeating earthquakes. He’s working on the project of *joint inversion of multiple seismic data in Myanmar*.
+**Contact Information**
+- Address: 21 Nanyang Link, SPMS-MAS-04-07, Singapore 637371
+- Email: YQI002@e.ntu.edu.sg

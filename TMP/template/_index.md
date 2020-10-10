@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Chunfei CHEY
+title:
 
 # Username (this should match the folder name)
 authors:
-- chunfeichey
+-
 
 # Is this the primary user of the site?
 superuser: false
@@ -59,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "chey0014@e.ntu.edu.sg"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,8 +67,8 @@ user_groups:
 - PhD Candidates
 ---
 
-Chunfei CHEY is a PhD candidate at [Nanyang Technological University](http://spms.ntu.edu.sg), advised by Prof. [Ping Tong](http://www.ntu.edu.sg/home/tongping). He joined MIG in August 2020. He is now workding on seismic imaging in Singapore.
+ is a PhD candidate at [Nanyang Technological University](http://spms.ntu.edu.sg), advised by Prof. [Ping Tong](http://www.ntu.edu.sg/home/tongping). He joined MIG in . He is now workding on .
 
 **Contact Information**
 - Address: 21 Nanyang Link, SPMS-MAS-04-07, Singapore 637371
-- Email: chey0014@e.ntu.edu.sg
+- Email:

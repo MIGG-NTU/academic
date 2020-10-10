@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Jiayuan Yao
+title: Xiaoyan Li
 
 # Username (this should match the folder name)
 authors:
-- core-man
+- xiaoyanli
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Research Fellow at Nanyang Technological University
+role: Master student at Nanyang Technological University
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ntu.edu.sg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: MIGG member, core-man bloger.
+bio: MIGG member.
 
 interests:
 - Seismic Imaging
@@ -77,7 +77,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Master Students
 ---
 
 Jiayuan Yao is a Research Fellow in Geophysics at [Nanyang Technological University](http://spms.ntu.edu.sg), cooperation with Prof. [Ping Tong](http://www.ntu.edu.sg/home/tongping). He received his Ph.D. degree from [University of Science and Technology of China](http://en.ustc.edu.cn) in 2018 advised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen).
