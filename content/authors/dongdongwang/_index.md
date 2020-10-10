@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate at HUT
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://en.hfut.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate at HUT
+bio:
 
 interests:
 - Seismic Imaging
@@ -59,13 +59,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ddong_wang@foxmail.com"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Alumni
 ---
 
-Dongdong Wang is a PhD candidate at [Hefei University of Technology](http://en.hfut.edu.cn/), advised by Prof. [Yongxin Gao](http://em.hfut.edu.cn/2016/0807/c498a13548/page.htm). He visited MIG between 2019 September and 2020 September. He is now working on seismic inversion of P and PmP arrival times.
-
+Dongdong Wang visited MIG between 2019 September and 2020 September. During that period, he worked on seismic inversion of P and PmP arrival times.

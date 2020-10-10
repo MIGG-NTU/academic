@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ntu.edu.sg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor at NTU
+bio:
 
 # Interests to show in About widget
 interests:
@@ -69,7 +69,7 @@ social:
 #   link: media/resume.pdf
 
 # Email for Contact widget or Gravatar
-email: "tongping@ntu.edu.sg"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
@@ -77,7 +77,7 @@ user_groups:
 - Principal Investigators
 ---
 
-Ping Tong is an Assistant Professor at [Nanyang Technological University](https://www.ntu.edu.sg/). His primary research goal is to develop advanced mathematical modelling methods and the state-of-the-art inversion and imaging technology to better image the subsurface structures from the global to engeering scales of the interior of the earth.
+Ping Tong's primary research goal is to develop advanced mathematical modelling methods and the state-of-the-art inversion and imaging technology to better image the subsurface structures from the global to engeering scales of the interior of the earth.
 
 **Employment**
 - 2016~present, Assistant Professor, [Nanyang Technological University](https://www.ntu.edu.sg/)

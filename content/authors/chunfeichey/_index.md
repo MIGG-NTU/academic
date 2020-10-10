@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ntu.edu.sg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate at NTU
+bio:
 
 interests:
 - Seismic Imaging
@@ -49,9 +49,9 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:chey0014@e.ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "chey0014@e.ntu.edu.sg"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,8 +67,4 @@ user_groups:
 - PhD Candidates
 ---
 
-Chunfei CHEY is a PhD candidate at [Nanyang Technological University](http://spms.ntu.edu.sg), advised by Prof. [Ping Tong](http://www.ntu.edu.sg/home/tongping). He joined MIG in August 2020. He is now workding on seismic imaging in Singapore.
-
-**Contact Information**
-- Address: 21 Nanyang Link, SPMS-MAS-04-07, Singapore 637371
-- Email: chey0014@e.ntu.edu.sg
+Chunfei CHEY joined MIG in August 2020. He is now workding on seismic imaging in Singapore.

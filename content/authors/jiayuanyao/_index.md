@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ntu.edu.sg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Fellow at NTU, core-man bloger
+bio: Research Fellow at NTU
 
 interests:
 - Seismic Imaging
@@ -62,9 +62,9 @@ social:
 - icon: globe
   icon_pack: fas
   link: https://core-man.github.io/link
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:jiayuanyao@ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:jiayuanyao@ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,7 +72,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jiayuanyao@ntu.edu.sg"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -80,11 +80,4 @@ user_groups:
 - Researchers
 ---
 
-Jiayuan Yao is a Research Fellow at [Nanyang Technological University](http://spms.ntu.edu.sg), cooperation with Prof. [Ping Tong](http://www.ntu.edu.sg/home/tongping). He joined MIG in August 2018. He received his Ph.D. degree from [University of Science and Technology of China](http://en.ustc.edu.cn) in 2018 advised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen).
-
-His research interests include the seismic structure of the Earth’s interior with special focus on the lower mantle and inner core, seismic monitoring of North Korea's nuclear tests, high-precision locations of earthquakes, and repeating earthquakes. He’s working on the project of *joint inversion of multiple seismic data in Myanmar*.
-
-**Contact Information**
-- Address: 21 Nanyang Link, SPMS-MAS-04-07, Singapore 637371
-- Phone: +65-8457 3968
-- Email: jiayuanyao@ntu.edu.sg
+[Jiayuan Yao](https://www.ntu.edu.sg/home/jiayuanyao/) joined MIG in August 2018. He is now working on the project of *joint inversion of multiple seismic data in Myanmar*.

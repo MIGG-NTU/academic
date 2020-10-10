@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ntu.edu.sg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Fellow at NTU
+bio:
 
 interests:
 - Seismic Imaging
@@ -51,9 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Shucheng-Wu
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:shucheng.wu@ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:shucheng.wu@ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "shucheng.wu@ntu.edu.sg"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,9 +69,4 @@ user_groups:
 - Researchers
 ---
 
-Shucheng Wu is a Research Fellow at [Nanyang Technological University](http://spms.ntu.edu.sg), cooperation with Prof. [Ping Tong](http://www.ntu.edu.sg/home/tongping). He joined MIG in August 2019. He is now working on ambient noise tomography of Myanmar.
-
-**Contact Information**
-- Address: 21 Nanyang Link, SPMS-MAS-04-07, Singapore 637371
-- Phone: +65-6592 7542
-- Email: shucheng.wu@ntu.edu.sg
+Shucheng Wu joined MIG in August 2019. He is now working on ambient noise tomography of Myanmar.

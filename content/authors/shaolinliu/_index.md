@@ -1,36 +1,37 @@
 ---
 # Display name
-title: Tianjue Li
+title: Shaolin Liu
 
 # Username (this should match the folder name)
 authors:
-- tianjueli
+- shaolinilu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Nanyang Technological University
-  url: "https://www.ntu.edu.sg"
+- name: National Institute of Natural Hazards
+  url: "http://www.eq-icd.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
 - Seismic Imaging
+- Numerical methods
 
 education:
   courses:
-  - course: M.S. in Geophysics
-    institution: Institute of Geology and Geophysics, Chinese Academy of Sciences
-    year: 2018
-  - course: BSc in Geophysics
-    institution: China University of Geosciences (Wuhan)
+  - course: PhD in Geophysics
+    institution: Institute of Geodesy and Geophysics, Chinese Academy of Sciences
     year: 2015
+  - course: BSc in Geophysics
+    institution: Yunnan University
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,21 +41,21 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: orcid
-#  icon_pack: ai
-#  link: http://orcid.org/
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0001-5339-5753
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=Q0kxRd8AAAAJ
 #- icon: researchgate
 #  icon_pack: ai
 #  link: https://www.researchgate.net/profile/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/tianjueli
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tianjue001@e.ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:shaolinliu88@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,11 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
-Tianjue Li joined MIG as a research associate in April 2019 and has been a PhD candidate since 2020 August. He is now working on seismic reflection inversion for Moho depth determination.
-
-**Employment**
-- 2019~2020, Research Associate, [Nanyang Technological University](https://www.ntu.edu.sg/)
-- 2018~2019, Research Associate, [Institute of Geodesy and Geophysics, Chinese Academy of Sciences](http://www.whigg.cas.cn/)
+[Shaolin Liu](http://www.eq-icd.cn/Index/details/id/302.html) worked as a research fellow in MIG between 2017 September and 2020 February. During that period, he mainly worked on body-wave traveltime tomography in Sumatra.
