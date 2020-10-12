@@ -25,17 +25,17 @@ subtitle = ""
     name = "All"
     tag = "*"
 
-  [[content.filter_button]]
-    name = "SEM-FK"
-    tag = "SEM-FK"
-
-  [[content.filter_button]]
-    name = "Fast Marching"
-    tag = "FMM"
-
-  [[content.filter_button]]
-    name = "Seismic Anisotropy"
-    tag = "Seismic Anisotropy"
+#  [[content.filter_button]]
+#    name = "SEM-FK"
+#    tag = "SEM-FK"
+#
+#  [[content.filter_button]]
+#    name = "Fast Marching"
+#    tag = "FMM"
+#
+#  [[content.filter_button]]
+#    name = "Seismic Anisotropy"
+#    tag = "Seismic Anisotropy"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

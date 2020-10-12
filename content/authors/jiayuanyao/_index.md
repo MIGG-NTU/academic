@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ntu.edu.sg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Fellow at NTU
+bio:
 
 interests:
 - Seismic Imaging

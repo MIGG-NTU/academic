@@ -67,4 +67,4 @@ user_groups:
 - PhD Candidates
 ---
 
-Chunfei CHEY joined MIG in August 2020. He is now workding on seismic imaging in Singapore.
+Chunfei CHEY joined MIG in August 2020. He is now working on seismic imaging in Singapore.
