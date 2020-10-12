@@ -28,7 +28,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-[FWI](https://ds.iris.edu/message-center/thread/6520/#m-9045)
+[IRIS message center](https://ds.iris.edu/message-center/thread/6520/#m-9045):
 
 Nanyang Technological University (Singapore) are accepting applications for 2-3 Research Fellow (Postdoc) positions in computational geophysics and seismology. The research fellow will work with an interdisciplinary team of seismologists, geologists and mathematicians to improve the understanding of structural heterogeneity and geodynamics in Southeast Asia. To achieve this goal, advanced seismic imaging tools will be developed and applied to derive high-resolution images from the growing volume of seismic data in Southeast Asia. Candidates with at least one of the following experiences are encouraged to apply: (1) Seismic traveltime tomography; (2) Ambient noise tomography or Surface wave tomography; (3) Receiver function analysis; (4) Adjoint tomography or Full waveform inversion; (5) High Performance Computing; (6) Computational mathematics.
 

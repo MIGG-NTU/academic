@@ -1,12 +1,16 @@
 ---
-title: ""
+title: "Wave equation‐based reflection tomography of the 1992 Landers earthquake area"
 authors:
+- Xueyuan Huang
+- Dinghui Yang
 - Ping Tong
+- Jose Badal
+- Qinya Liu
 author_notes:
 - ""
 - ""
-date: "201--T00:00:00Z"
-doi: ""
+date: "2016-02-12T00:00:00Z"
+doi: "10.1002/2016GL067717"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -18,10 +22,10 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**"
+publication: "*Geophysical Research Letters*"
 publication_short: ""
 
-abstract: ""
+abstract: "In the framework of a recent wave equation‐based traveltime seismic tomography, we show that incorporating Moho‐reflected phases (PmP and SmS) in addition to the direct P and S phases can significantly increase tomography resolution in the lower crust and this may provide additional evidence to resolve important tectonic issues. To highlight the resolving power of the new strategy, we apply it in the region around the 1992 Landers earthquake (Mw = 7.3) in Southern California using seismic arrivals from local earthquakes, obtaining 3‐D high‐resolution P and S wave crustal velocity models and Poisson's ratio structures. In the upper crust, our method confirmed features that had been previously found. However, in the middle‐to‐lower crust, we found low‐velocity anomalies on the southeastern section of the San Jacinto Fault and high Vp and low Vs structures to the west of the Big Bear earthquake, which may be related to upwelling of partial melt from the mantle."
 
 # Summary. An optional shortened abstract.
 summary:
@@ -54,7 +58,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [EarthquakeSeismology]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
