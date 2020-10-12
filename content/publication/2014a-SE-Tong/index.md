@@ -33,7 +33,7 @@ summary:
 
 tags:
 -
-featured: false
+featured: true
 
 #links:
 #- name: "Citations:2"
