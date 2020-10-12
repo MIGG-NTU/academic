@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "https://github.com/MIGG-NTU/academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Show related content at the bottom of pages?
-show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {docs = true, page = false, post = true, project = true, publication = false, talk = true}
 
 ############################
 ## Contact details
