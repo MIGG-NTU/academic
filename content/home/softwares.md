@@ -79,4 +79,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Please feel free to request for those codes, improve the codes, and send your feedback!
+Those softwares are still under development and to be released soon. Please feel free to request for them, improve the codes, and send your feedback!
