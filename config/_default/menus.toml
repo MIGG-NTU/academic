@@ -39,14 +39,25 @@
   weight = 60
 
 [[main]]
-  name = "Positions"
-  url = "#positions"
+  name = "Groupmeeting"
+  url = "https://blogs.ntu.edu.sg/geophysics/"
   weight = 70
+
+[[main]]
+  name = "Guide"
+  url = "https://migg-ntu.github.io/MIG_Docs/"
+  weight = 80
+
+[[main]]
+  name = "Positions"
+#  url = "#positions"
+  url = "./positions"
+  weight = 90
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

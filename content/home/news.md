@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 18
 
-title: News
-subtitle:
+title: Recent News
+subtitle: "[More News <i class='fa fa-angle-double-right'></i>](./news)"
 
 design:
   columns: "2"
@@ -28,6 +28,6 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-- **July 24, 2020**: Nanyang Technological University (Singapore) are accepting applications for 2-3 Research Fellow (Postdoc) positions in computational geophysics and seismology. Please refer to [IRIS message center](https://ds.iris.edu/message-center/thread/6520/#m-9045) for more information.
+- **July 24, 2020**: Nanyang Technological University (Singapore) are accepting applications for 2-3 Research Fellow (Postdoc) positions in computational geophysics and seismology. Please refer to [Positions](./positions) at MIG for more information.
 
-- **Aug. 10, 2020**: Prof. Tong invited MIG member for a BBQ.
+- **Aug. 10, 2020**: Prof. Tong invited MIG members to his home for BBQ.
