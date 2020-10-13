@@ -67,7 +67,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Graduate Students
+#- PhD Candidates
 ---
 
 Tianjue Li joined MIG as a research associate in April 2019 and has been a PhD candidate since 2020 August. He is now working on seismic reflection inversion for Moho depth determination.
