@@ -6,6 +6,11 @@ Update the [academic homepage](https://github.com/MIGG-NTU/academic) for Prof. T
 - [References](#references)
 
 
+**TODO**
+
+- Update MIG *current* and *previous* members
+
+
 ## Notes
 
 There are some [prerequisites](https://wowchemy.com/docs/install-locally/) if we edit our site on the local PC.
