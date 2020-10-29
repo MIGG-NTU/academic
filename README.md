@@ -6,7 +6,7 @@ Update the [academic homepage](https://github.com/MIGG-NTU/academic) for Prof. T
 - [References](#references)
 
 
-[**TODO**](https://github.com/MIGG-NTU/academic/TODO/)
+[**TODO**](https://github.com/MIGG-NTU/academic/tree/master/TODO/)
 
 - Update MIG *current* and *previous* members
 
