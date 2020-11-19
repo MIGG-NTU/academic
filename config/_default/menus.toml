@@ -45,7 +45,7 @@
   weight = 70
 
 [[main]]
-  name = "Guide"
+  name = "Docs"
   url = "https://migg-ntu.github.io/MIG_Docs/"
   weight = 80
 
