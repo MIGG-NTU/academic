@@ -69,4 +69,5 @@ user_groups:
 - Researchers
 ---
 
-Shucheng Wu joined MIG in August 2019. He is now working on ambient noise tomography of Myanmar.
+Shucheng Wu joined MIG in August 2019.
+He is now working on ambient noise tomography of Myanmar.

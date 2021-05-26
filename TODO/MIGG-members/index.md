@@ -26,11 +26,6 @@ Xiaoyan LI
 - Xiaoyan Li is a master student at the Division of Mathematical Sciences, School of Physical and Mathematical Sciences. He joined Ping's research group in July 2019. He received his B.Sc. (2019) in petroleum engineering from the Texas A&M University.
 
 
-### Research Fellow
-
-![Shucheng Wu](wushucheng.jpeg)
-
-
 ### Research Associate
 
 Tianjue LI
