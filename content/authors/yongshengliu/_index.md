@@ -71,4 +71,5 @@ user_groups:
 #- PhD Candidates
 ---
 
-Yongsheng Liu joined MIG in August 2017. He is now working on body-wave traveltime tomography.
+Yongsheng Liu joined MIG in August 2017.
+He is now working on body-wave traveltime tomography.
