@@ -23,9 +23,6 @@ bio:
 interests:
 - Seismic Imaging
 - Structures of the Earth’s Deep Interior
-- Seismic Monitoring
-- Repeating Earthquake
-- Inverse Problems
 
 education:
   courses:
@@ -50,18 +47,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=y24TlWQAAAAJ
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Jiayuan_Yao
 - icon: github
   icon_pack: fab
   link: https://github.com/core-man
-- icon: blog
-  icon_pack: fas
-  link: https://core-man.github.io/blog
-- icon: globe
-  icon_pack: fas
-  link: https://core-man.github.io/link
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jiayuanyao@ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
@@ -80,4 +68,5 @@ user_groups:
 - Researchers
 ---
 
-[Jiayuan Yao](https://www.ntu.edu.sg/home/jiayuanyao/) joined MIG in August 2018. He is now working on the project of *joint inversion of multiple seismic data in Myanmar*.
+[Jiayuan Yao](https://www.ntu.edu.sg/home/jiayuanyao/) joined MIG as a research
+fellow in August 2018. He is now working on the project of **Seismic Imaging in Myanmar**.

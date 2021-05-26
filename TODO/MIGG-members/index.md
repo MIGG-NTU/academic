@@ -1,21 +1,3 @@
----
-title: MIGG member introduction
-date: 2019-07-25
-author: MIGG
----
-
-## Current members
-
-### MIGG Leader
-
-Ping TONG
-
-![Ping Tong](tongping.jpg)
-
-- Ping Tong joined the Division of Mathematical Sciences, School of Physical & Mathematical Sciences and Asian School of the Environment as Assistant Professor in September 2016. He comes from the Department of Geophysics at Stanford University, where he was a postdoctoral research fellow. From 2012 to 2014, he was a postdoctoral fellow of the Department of Physics at University of Toronto. He received his Ph.D. (2012) in Computational Mathematics from Tsinghua University and his B.Sc. (2007) in Mathematics and Applied Mathematics from Beijing Normal University in China.
-
-- Ping Tong's primary research areas are in inverse problems, numerical methods, earthquake seismology, and exploration geophysics. His primary research goal is to develop advanced mathematical modelling methods and the state-of-the-art inversion and imaging technology to better image the subsurface structures from the global to engeering scales of the interior of the earth.
-
 
 ### PhD Student
 
@@ -46,17 +28,7 @@ Xiaoyan LI
 
 ### Research Fellow
 
-Jiayuan YAO
-
-![Jiayuan Yao](yaojiayuan.jpg)
-
-- Jiayuan Yao joined Ping's research group in August 2018 as a research fellow. He received his Ph.D. (2018) and B.Sc. (2012) in Geophysics from University of Science and Technology of China. His primary research areas are the structure of the Earth's deep interior and seismic monitoring. He is now working on seismic tomographic imaging of Myanmar.
-
-Shucheng WU
-
 ![Shucheng Wu](wushucheng.jpeg)
-
-- `TBA`
 
 
 ### Research Associate
@@ -89,7 +61,6 @@ Shaolin LIU
 - He received his Ph.D. (2015) in Geophysics from Chinese Academy of Sciences and his B.Sc. (2010) in Geophysics from Yunnan University.
 - He left NTU on 2020 Feb. 29, and is now a Researcher at the Institute of Crustal Dynamics, CEA.
 
-
 Xueyuan HUANG
 
 ![Xueyuan Huang](huangxueyuan.jpg)
@@ -98,7 +69,6 @@ Xueyuan HUANG
 - 2010年 ~ 2016年，于清华大学计算数学专业毕业，获理学博士学位。
 - 2016年 ~ 至今(最后追踪于2019年8月)，于北京工商大学理学院数学系授课，任讲师。
 - 2017 Sep. ~ 2018 Sep., Research Fellow at Earth Observatory of Singapore, Nanyang Technological University.
-
 
 ### Visiting PhD Student
 
@@ -112,19 +82,11 @@ Chao ZHANG
 - 2017.09 ~ 2017.10，新加坡南洋理工大学，访问博士生
 - 2018.10 ~ 至今(后追踪于2019年8月)，   河海大学海洋学院
 
-
 ### Visiting Master Student
 
 Hui LI
 - Hui LI joined Ping’s research group in November 2018 as a visiting master student to conduct seismic modelling and imaging studies. During the visiting, she mainly completed seismic tomography research on the source areas of the 2008 Wenchuan earthquake and the 2013 Lushan earthquake.
 - She went back to Chengdu University of Technology in April 2019.
 
-
 Xiachun LU
 - Master student, School of Mathematics and Statistics, Ningxia University
-
-
-## Revision history
-
-- 2019-03-01: move Shaolin Lin to previous member
-- 2019-07-25: initial draft
