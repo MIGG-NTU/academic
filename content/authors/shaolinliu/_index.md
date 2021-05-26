@@ -71,4 +71,8 @@ user_groups:
 - Alumni
 ---
 
-[Shaolin Liu](http://www.eq-icd.cn/Index/details/id/302.html) worked as a research fellow in MIG between 2017 September and 2020 February. During that period, he mainly worked on body-wave traveltime tomography in Sumatra.
+[Shaolin Liu](http://www.eq-icd.cn/Index/details/id/302.html) worked as a
+research fellow in MIG between 2017 September and 2020 February.
+During that period, he mainly worked on body-wave traveltime tomography in Sumatra.
+His primary research areas are in computational and theoretical seismology.
+He is now a Researcher at the Institute of Crustal Dynamics, CEA.

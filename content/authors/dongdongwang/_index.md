@@ -21,13 +21,8 @@ organizations:
 bio:
 
 interests:
-- Seismic Imaging
 
 education:
-  courses:
-  - course: BSc in xxxx
-    institution: Chang'an University
-    year: xxxx
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,4 +62,5 @@ user_groups:
 - Alumni
 ---
 
-Dongdong Wang visited MIG between 2019 September and 2020 September. During that period, he worked on seismic inversion of P and PmP arrival times.
+Dongdong Wang visited MIG between 2019 September and 2020 September.
+During that period, he worked on seismic inversion of P and PmP arrival times.

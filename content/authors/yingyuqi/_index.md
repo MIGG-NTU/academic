@@ -68,4 +68,5 @@ user_groups:
 #- PhD Candidates
 ---
 
-Yingyu Qi joined MIG in August 2017. He is now working on developing advanced inversion method for Moho depth determination.
+Yingyu Qi joined MIG in August 2017.
+He is now working on developing advanced inversion method for Moho depth determination.

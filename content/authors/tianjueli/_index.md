@@ -71,7 +71,9 @@ user_groups:
 #- PhD Candidates
 ---
 
-Tianjue Li joined MIG as a research associate in April 2019 and has been a PhD candidate since 2020 August. He is now working on seismic reflection inversion for Moho depth determination.
+Tianjue Li joined MIG as a research associate in April 2019 and has been a PhD
+candidate since 2020 August. He is now working on seismic reflection inversion
+for Moho depth determination.
 
 **Employment**
 - 2019~2020, Research Associate, [Nanyang Technological University](https://www.ntu.edu.sg/)

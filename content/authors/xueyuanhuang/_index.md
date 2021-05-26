@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Xiaoyan Li
+title: Xueyuan Huang
 
 # Username (this should match the folder name)
 authors:
-- xiaoyanli
+- xueyuanhuang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Student
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: Nanyang Technological University
-  url: "https://www.ntu.edu.sg"
+- name: National Institute of Natural Hazards
+  url: "http://www.eq-icd.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -24,33 +24,18 @@ interests:
 
 education:
   courses:
-  - course: BSc in Petroleum Engineering
-    institution: Texas A&M University
-    year: 2019
+  - course: PhD in Computational Mathematics
+    institution: Tsinghua University
+    year: 2016
+  - course: BSc in Mathematics and Applied Mathematics
+    institution: China University of Petroleum (East China)
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: orcid
-#  icon_pack: ai
-#  link: http://orcid.org/
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=
-#- icon: researchgate
-#  icon_pack: ai
-#  link: https://www.researchgate.net/profile/
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:xiaoyan003@e.ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,8 +48,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
-Xiaoyan Li joined MIG in July 2019.
-He is a master student at the Division of Mathematical Sciences, School of Physical and Mathematical Sciences.
+Xueyuan Huang worked as a research fellow in MIG bewteen 2017 September and 2018 September.
+He is now a lecturer at Department of Mathematics, School of Science,
+Beijing Technology and Business University.

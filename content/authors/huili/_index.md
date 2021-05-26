@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xiaoyan Li
+title: Hui Li
 
 # Username (this should match the folder name)
 authors:
-- xiaoyanli
+- huili
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: Nanyang Technological University
-  url: "https://www.ntu.edu.sg"
+- name: Chengdu University of Technology
+  url: "https://www.cdut.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -23,10 +23,6 @@ bio:
 interests:
 
 education:
-  courses:
-  - course: BSc in Petroleum Engineering
-    institution: Texas A&M University
-    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,9 +44,9 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:xiaoyan003@e.ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,8 +59,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
-Xiaoyan Li joined MIG in July 2019.
-He is a master student at the Division of Mathematical Sciences, School of Physical and Mathematical Sciences.
+Hui Li joined MIG in November 2018 as a visiting master student to conduct
+seismic modelling and imaging studies. During the visiting, she mainly completed
+seismic tomography research on the source areas of the 2008 Wenchuan earthquake
+and the 2013 Lushan earthquake. She went back to Chengdu University of Technology in April 2019.

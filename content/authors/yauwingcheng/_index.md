@@ -21,7 +21,6 @@ organizations:
 bio:
 
 interests:
-- Seismic Imaging
 
 education:
   courses:
@@ -70,4 +69,4 @@ user_groups:
 - Researchers
 ---
 
-Yau Wing CHENG will be a Research Associate in MIG.
+Yau Wing Cheng joined MIG in August 2018.
