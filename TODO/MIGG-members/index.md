@@ -25,45 +25,17 @@ Xiaoyan LI
 
 - Xiaoyan Li is a master student at the Division of Mathematical Sciences, School of Physical and Mathematical Sciences. He joined Ping's research group in July 2019. He received his B.Sc. (2019) in petroleum engineering from the Texas A&M University.
 
-
-### Research Associate
-
-Tianjue LI
-- Tianjue LI is a research associate at Earth Observatory of Singapore, Nanyang Technological University. He joined Ping's research group in April 2019. He received his M.S. (2018) in Geophysics from Institute of Geology and Geophysics, Chinese Academy of Sciences. He is currently working on seismic reflection inversion for Moho depth determination.
-
-
 ### Vistting Professor
 
 Wenshuai WANG
 -  Associate Professor, School of Mathematics and Statistics, Ningxia University
-
 
 ### Visiting PhD Student
 
 Dongdong WANG
 - PhD stuent, Hefei University of Technology
 
-
 ## Previous member
-
-### Research Fellow
-
-Shaolin LIU
-
-![Shaolin Liu](liushaolin.jpg)
-
-- Shaolin Liu joined Ping's group in 2017 as a research fellow at Eearth Observatory of Singapore. His primary research areas are in computational and theoretical seismology.
-- He received his Ph.D. (2015) in Geophysics from Chinese Academy of Sciences and his B.Sc. (2010) in Geophysics from Yunnan University.
-- He left NTU on 2020 Feb. 29, and is now a Researcher at the Institute of Crustal Dynamics, CEA.
-
-Xueyuan HUANG
-
-![Xueyuan Huang](huangxueyuan.jpg)
-
-- 2006年 ~ 2010年，于中国石油大学（华东）数学与应用数学专业毕业，获理学学士学位。
-- 2010年 ~ 2016年，于清华大学计算数学专业毕业，获理学博士学位。
-- 2016年 ~ 至今(最后追踪于2019年8月)，于北京工商大学理学院数学系授课，任讲师。
-- 2017 Sep. ~ 2018 Sep., Research Fellow at Earth Observatory of Singapore, Nanyang Technological University.
 
 ### Visiting PhD Student
 
