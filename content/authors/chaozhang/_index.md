@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Dongdong Wang
+title: Chao Zhang
 
 # Username (this should match the folder name)
 authors:
-- dongdongwang
+- chaozhang
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,6 +23,13 @@ bio:
 interests:
 
 education:
+  courses:
+  - course: PhD in Geophysics
+    institution: University of Science and Technology of China
+    year: 2018
+  - course: BSc in Geophysics
+    institution: China University of Geosciences (Wuhan)
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,5 +69,5 @@ user_groups:
 - Alumni
 ---
 
-Dongdong Wang visited MIG between 2019 September and 2020 September.
-During that period, he worked on seismic inversion of P and PmP arrival times.
+Chao Zhang visited MIG as a PhD student between 2016 Sept. and 2017 Oct.
+He is now working at College of Oceanography, Hohai University.

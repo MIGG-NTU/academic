@@ -30,21 +30,3 @@ Xiaoyan LI
 Wenshuai WANG
 -  Associate Professor, School of Mathematics and Statistics, Ningxia University
 
-### Visiting PhD Student
-
-Dongdong WANG
-- PhD stuent, Hefei University of Technology
-
-## Previous member
-
-### Visiting PhD Student
-
-Chao ZHANG
-
-![Chao ZHANG](zhangchao.jpg)
-
-- 2008.09 ~ 2012.07，中国地质大学(武汉)，地球物理与空间信息学院地球物理学，学士
-- 2012.09 ~ 2018.07，中国科学技术大学，地球和空间科学学院固体地球物理学，博士
-- 2016.01 ~ 2017.01，University of Toronto，Department of Earth Sciences，访问博士生
-- 2017.09 ~ 2017.10，新加坡南洋理工大学，访问博士生
-- 2018.10 ~ 至今(后追踪于2019年8月)，   河海大学海洋学院
