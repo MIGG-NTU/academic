@@ -5,7 +5,8 @@
 
 This is the source code for Mathematical Imaging and Geophysics Group at NTU.
 
-- Website: https://personal.ntu.edu.sg/tongping/
+- Website (Stable): https://personal.ntu.edu.sg/tongping/
+- Test Site (Dev): https://migg-ntu.github.io/academic/
 - Theme from [wowchemy theme](https://wowchemy.com/)
 - Build by [Hugo](https://gohugo.io/)
 
