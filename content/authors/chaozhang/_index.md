@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Lecture
 
 # Organizations/Affiliations
 organizations:
-- name: Hefei University of Technology
-  url: "http://en.hfut.edu.cn/"
+- name: Hohai University
+  url: "https://www.hhu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
