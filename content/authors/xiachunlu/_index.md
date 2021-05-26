@@ -1,27 +1,26 @@
 ---
 # Display name
-title: Dongdong Wang
+title: Xiachun LU
 
 # Username (this should match the folder name)
 authors:
-- dongdongwang
+- xiachunlu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: Hefei University of Technology
-  url: "http://en.hfut.edu.cn/"
+- name: Ningxia University
+  url: "https://www.nxu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
-- Seismic Imaging
 
 education:
 
@@ -63,5 +62,5 @@ user_groups:
 - Alumni
 ---
 
-Dongdong Wang visited MIG between 2019 September and 2020 September.
-During that period, he worked on seismic inversion of P and PmP arrival times.
+Xiachun Lu visited MIG as a master student between 2019 Jan. and 2019 Nov.
+She comes from School of Mathematics and Statistics, Ningxia University.

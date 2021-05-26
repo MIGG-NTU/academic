@@ -1,27 +1,26 @@
 ---
 # Display name
-title: Dongdong Wang
+title: Hui Li
 
 # Username (this should match the folder name)
 authors:
-- dongdongwang
+- huili
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: Hefei University of Technology
-  url: "http://en.hfut.edu.cn/"
+- name: Chengdu University of Technology
+  url: "https://www.cdut.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
-- Seismic Imaging
 
 education:
 
@@ -63,5 +62,7 @@ user_groups:
 - Alumni
 ---
 
-Dongdong Wang visited MIG between 2019 September and 2020 September.
-During that period, he worked on seismic inversion of P and PmP arrival times.
+Hui Li joined MIG in November 2018 as a visiting master student to conduct
+seismic modelling and imaging studies. During the visiting, she mainly completed
+seismic tomography research on the source areas of the 2008 Wenchuan earthquake
+and the 2013 Lushan earthquake. She went back to Chengdu University of Technology in April 2019.
