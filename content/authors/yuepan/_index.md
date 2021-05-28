@@ -59,7 +59,7 @@ email: "n2007049d@e.ntu.edu.sg"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Graduate Students
 ---
 
 Yue Pan is now visiting MIG from 2021 May.
