@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/project/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://MIGG-NTU.github.io/academic/project/</link>
+    </image>
+    
+    <item>
+      <title>Mathematical Modelling and Inversion</title>
+      <link>https://MIGG-NTU.github.io/academic/project/mathematicalmodellingandinversion/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/project/mathematicalmodellingandinversion/</guid>
+      <description>&lt;p&gt;We develope advanced numerical schemes to solve partial differential equations such as the eikonal equations and acoustic/elastic/visoelasitc wave equations to accurately model the propagation of seismic waves in complex media.&lt;/p&gt;
+&lt;p&gt;Mathematical inverse problems are some of the most important problems in science and engineering. An inverse problem is the process of investigating from a set of indirect measurements the causal factors that produced them. Such situations are common in many application areas such as underground prospecting, medical imaging, non-destructive testing, computer vision, machine learning, data mining, and other fields. We develop new mathematical technology to solve inverse problems in earth sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Earthquake Seismology</title>
+      <link>https://MIGG-NTU.github.io/academic/project/earthquakeseismology/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/project/earthquakeseismology/</guid>
+      <description>&lt;p&gt;Earthquake seismology is one of the most powerful tools to study the interior of the earth. When an earthquake or explosion occurs, part of the energy is released as elastic waves that transmit through the earth in all directions. The waves are then detected and recorded by seismograms, which measure and record the motion of the ground. The information is then used to determine earthquake locations, the subsurface structures and etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploration Geophysics</title>
+      <link>https://MIGG-NTU.github.io/academic/project/explorationgeophysics/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/project/explorationgeophysics/</guid>
+      <description>&lt;p&gt;Exploration geophysics is an applied branch of geophysics. It aims to explore the first few kilometers of the earth&amp;rsquo;s crust by identifying rock and/or fuild types and structures. The ability to do this is very invaluable in the exploration for oil and gas, and in the mining and construction industries. Full waveform inversion is a recent hot topic in seismic exploration. We have special interests in conducting full waveform modelling and imaging studies of hydraulic fracturing for unconventional oil &amp;amp; gas exploration.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

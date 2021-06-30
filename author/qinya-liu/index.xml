@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qinya Liu | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/author/qinya-liu/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/author/qinya-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qinya Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Qinya Liu</title>
+      <link>https://MIGG-NTU.github.io/academic/author/qinya-liu/</link>
+    </image>
+    
+    <item>
+      <title>High-frequency seismic wave modelling of the deep Earth based on hybrid methods and spectral-element simulations: a conceptual study</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2019-gji-lin/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2019-gji-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined crustal and uppermost mantle structure of southern California by ambient noise adjoint tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2018-gji-wang/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2018-gji-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time‐evolving seismic tomography: The method and its application to the 1989 Loma Prieta and 2014 South Napa earthquake area, California</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2017-grl-tong/</link>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2017-grl-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustic wave-equation-based earthquake location</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2016-gji-tong/</link>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2016-gji-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave equation‐based reflection tomography of the 1992 Landers earthquake area</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2016-grl-huang/</link>
+      <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2016-grl-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave-equation-based travel-time seismic tomography – Part 2: Application to the 1992 Landers earthquake (Mw 7.3) area</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2014b-se-tong/</link>
+      <pubDate>Wed, 26 Nov 2014 01:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2014b-se-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave-equation-based travel-time seismic tomography – Part 1: Method</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2014a-se-tong/</link>
+      <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2014a-se-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 3‐D spectral‐element and frequency‐wave number hybrid method for high‐resolution seismic array imaging</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2014-grl-tong/</link>
+      <pubDate>Sun, 12 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2014-grl-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution seismic array imaging based on an SEM-FK hybrid method</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2014-gji-tong/</link>
+      <pubDate>Sat, 11 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2014-gji-tong/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/publication/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/</link>
+    </image>
+    
+    <item>
+      <title>High-frequency seismic wave modelling of the deep Earth based on hybrid methods and spectral-element simulations: a conceptual study</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2019-gji-lin/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2019-gji-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slab morphology beneath northern Sumatra revealed by regional and teleseismic traveltime tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2019-jgr-liu/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2019-jgr-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple-grid model parametrization for seismic tomography with application to the San Jacinto fault zone</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2019-gji-tong/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2019-gji-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teleseismic Traveltime Tomography of Northern Sumatra</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2018-grl-liu/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2018-grl-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frozen Gaussian approximation for 3-D elastic wave equation and seismic tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2019-gji-hateley/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2019-gji-hateley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of seismoelectric waves using finite-difference frequency-domain method: 2D SHTE mode</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2018-gji-gao/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2018-gji-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined crustal and uppermost mantle structure of southern California by ambient noise adjoint tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2018-gji-wang/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2018-gji-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TSOS and TSOS-FK hybrid methods for modelling the propagation of seismic waves</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2018-gji-ma/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2018-gji-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frozen Gaussian approximation for 3D seismic tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2018-ip-chai/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2018-ip-chai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frozen Gaussian approximation for 3-D seismic wave propagation</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2017-gji-chai/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2017-gji-chai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time‐evolving seismic tomography: The method and its application to the 1989 Loma Prieta and 2014 South Napa earthquake area, California</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2017-grl-tong/</link>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2017-grl-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Nearly Analytic Central Difference Method for Computation of Sensitivity Kernels of Wave‐Equation‐Based Seismic Tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2016-bssa-huang/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2016-bssa-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustic wave-equation-based earthquake location</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2016-gji-tong/</link>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2016-gji-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave equation‐based reflection tomography of the 1992 Landers earthquake area</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2016-grl-huang/</link>
+      <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2016-grl-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave-equation-based travel-time seismic tomography – Part 2: Application to the 1992 Landers earthquake (Mw 7.3) area</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2014b-se-tong/</link>
+      <pubDate>Wed, 26 Nov 2014 01:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2014b-se-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave-equation-based travel-time seismic tomography – Part 1: Method</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2014a-se-tong/</link>
+      <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2014a-se-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 3‐D spectral‐element and frequency‐wave number hybrid method for high‐resolution seismic array imaging</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2014-grl-tong/</link>
+      <pubDate>Sun, 12 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2014-grl-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution seismic array imaging based on an SEM-FK hybrid method</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2014-gji-tong/</link>
+      <pubDate>Sat, 11 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2014-gji-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ONAD method for solving the SH-wave equation and simulation of the SH-wave propagation in the Earth’s mantle</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2012-sces-li/</link>
+      <pubDate>Fri, 11 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2012-sces-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A High‐Order Stereo‐Modeling Method for Solving Wave Equations</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2013-bssa-tong/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2013-bssa-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A central difference method with low numerical dispersion for solving the scalar wave equation</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2012-gp-yang/</link>
+      <pubDate>Sun, 05 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2012-gp-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel WNAD algorithm for solving 3D elastic equation and its wavefield simulations in TI media</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2012-cjg-song/</link>
+      <pubDate>Mon, 20 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2012-cjg-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomography of the 2011 Iwaki earthquake (M 7.0) and Fukushima nuclear power plant area</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2012-se-tong/</link>
+      <pubDate>Tue, 14 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2012-se-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomography of the 1995 Kobe earthquake area: comparison of finite-frequency and ray approaches</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2011-gji-tong/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2011-gji-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High accuracy wave simulation – Revised derivation, numerical analysis and testing of a nearly analytic integration discrete method for solving acoustic wave equation</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2011-ijss-tong/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2011-ijss-tong/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

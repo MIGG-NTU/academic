@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xueyuan Huang | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/author/xueyuan-huang/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/author/xueyuan-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xueyuan Huang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Xueyuan Huang</title>
+      <link>https://MIGG-NTU.github.io/academic/author/xueyuan-huang/</link>
+    </image>
+    
+    <item>
+      <title>Slab morphology beneath northern Sumatra revealed by regional and teleseismic traveltime tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2019-jgr-liu/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2019-jgr-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple-grid model parametrization for seismic tomography with application to the San Jacinto fault zone</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2019-gji-tong/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2019-gji-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Nearly Analytic Central Difference Method for Computation of Sensitivity Kernels of Wave‐Equation‐Based Seismic Tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2016-bssa-huang/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2016-bssa-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave equation‐based reflection tomography of the 1992 Landers earthquake area</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2016-grl-huang/</link>
+      <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2016-grl-huang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

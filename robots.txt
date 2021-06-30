@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://MIGG-NTU.github.io/academic/sitemap.xml

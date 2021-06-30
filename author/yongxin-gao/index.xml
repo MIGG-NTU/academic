@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongxin Gao | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/author/yongxin-gao/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/author/yongxin-gao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yongxin Gao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Yongxin Gao</title>
+      <link>https://MIGG-NTU.github.io/academic/author/yongxin-gao/</link>
+    </image>
+    
+    <item>
+      <title>Simulation of seismoelectric waves using finite-difference frequency-domain method: 2D SHTE mode</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2018-gji-gao/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2018-gji-gao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

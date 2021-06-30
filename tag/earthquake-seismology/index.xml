@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Earthquake Seismology | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/tag/earthquake-seismology/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/tag/earthquake-seismology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Earthquake Seismology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Earthquake Seismology</title>
+      <link>https://MIGG-NTU.github.io/academic/tag/earthquake-seismology/</link>
+    </image>
+    
+    <item>
+      <title>Earthquake Seismology</title>
+      <link>https://MIGG-NTU.github.io/academic/project/earthquakeseismology/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/project/earthquakeseismology/</guid>
+      <description>&lt;p&gt;Earthquake seismology is one of the most powerful tools to study the interior of the earth. When an earthquake or explosion occurs, part of the energy is released as elastic waves that transmit through the earth in all directions. The waves are then detected and recorded by seismograms, which measure and record the motion of the ground. The information is then used to determine earthquake locations, the subsurface structures and etc.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
