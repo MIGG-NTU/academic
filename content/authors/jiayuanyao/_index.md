@@ -7,7 +7,7 @@ authors:
 - Jiayuan Yao
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Research Fellow
@@ -65,8 +65,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 [Jiayuan Yao](https://www.ntu.edu.sg/home/jiayuanyao/) joined MIG as a research
-fellow in August 2018. He is now working on the project of **Seismic Imaging in Myanmar**.
+fellow in August 2018. He has been working on the project of **Seismic Imaging in Myanmar**. Now he is professor at China University of Geosciences (Wuhan).

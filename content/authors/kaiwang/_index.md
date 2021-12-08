@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Shucheng Wu
+title: Kai Wang
 
 # Username (this should match the folder name)
 authors:
-- shuchengwu
+- kaiwang
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,17 +22,14 @@ bio:
 
 interests:
 - Seismic Imaging
-- Surface-wave Tomography
+- Full waveform inversion
 - Tectonics
 
 education:
   courses:
   - course: PhD in Geophysics
     institution: Macquarie University
-    year: 2019
-  - course: BSc in Geophysics
-    institution: China University of Geosciences (Wuhan)
-    year: 2013
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +42,19 @@ social:
 #- icon: orcid
 #  icon_pack: ai
 #  link: http://orcid.org/
-- icon: google-scholar
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: 
+# - icon: github
+#   icon_pack: fab
+#   link: 
+- icon: orcid
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=-IBtE9AAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Shucheng-Wu
+  link: https://orcid.org/0000-0002-6189-7056
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:shucheng.wu@ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
+  link:  "mailto:kaiwang@ntu.edu.sg"
+  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,5 +70,5 @@ user_groups:
 - Researchers
 ---
 
-[Shucheng Wu](https://sites.google.com/view/shuchengwu) joined MIG in August 2019.
-He is now working on ambient noise tomography of Myanmar.
+Kai Wang joined MIG in October 2021.
+He is now working on Adjoint-state traveltime tomography.
