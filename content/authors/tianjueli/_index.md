@@ -4,7 +4,7 @@ title: Tianjue Li
 
 # Username (this should match the folder name)
 authors:
-- tianjueli
+- Tianjue Li
 
 # Is this the primary user of the site?
 superuser: false

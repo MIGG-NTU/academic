@@ -4,7 +4,7 @@ title: Mijian Xu
 
 # Username (this should match the folder name)
 authors:
-- mijianxu
+- Mijian Xu
 
 # Is this the primary user of the site?
 superuser: false

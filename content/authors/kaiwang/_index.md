@@ -4,7 +4,7 @@ title: Kai Wang
 
 # Username (this should match the folder name)
 authors:
-- kaiwang
+- Kai Wang
 
 # Is this the primary user of the site?
 superuser: false
