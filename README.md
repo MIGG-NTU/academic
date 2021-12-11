@@ -47,3 +47,9 @@ license terms:
 
 - Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 - NonCommercial: You may not use the material for commercial purposes.
+
+## Update publication
+
+0. Install prerequisite: `conda install -c conda-forge academic`.
+1. Download BibTeX file, then run `academic import --bibtex <path_to_your/publications.bib>`.
+2. New folder will be created in `content/publication/`. Change the folder name for clearance.
