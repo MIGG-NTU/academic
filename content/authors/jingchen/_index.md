@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Tianjue Li
+title: Jing Chen
 
 # Username (this should match the folder name)
 authors:
-- Tianjue Li
+- Jing Chen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -21,16 +21,14 @@ organizations:
 bio:
 
 interests:
-- Seismic Imaging
+- Numerical Method
+- Mathematical Imagine
 
 education:
   courses:
-  - course: M.S. in Geophysics
-    institution: Institute of Geology and Geophysics, Chinese Academy of Sciences
-    year: 2018
-  - course: BSc in Geophysics
-    institution: China University of Geosciences (Wuhan)
-    year: 2015
+  - course: PhD in Mathematics
+    institution: Tsinghua University
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,18 +41,16 @@ social:
 #- icon: orcid
 #  icon_pack: ai
 #  link: http://orcid.org/
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=
-#- icon: researchgate
-#  icon_pack: ai
-#  link: https://www.researchgate.net/profile/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/tianjueli
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: 
+# - icon: github
+#   icon_pack: fab
+#   link: 
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tianjue001@e.ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:jing.chen@ntu.edu.sg"
+# For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,14 +63,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
-#- PhD Candidates
+- Researchers
 ---
 
-Tianjue Li joined MIG as a research associate in April 2019 and has been a PhD
-candidate since 2020 August. He is now working on seismic reflection inversion
-for Moho depth determination.
-
-**Employment**
-- 2019~2020, Research Associate, [Nanyang Technological University](https://www.ntu.edu.sg/)
-- 2018~2019, Research Associate, [Institute of Geodesy and Geophysics, Chinese Academy of Sciences](http://www.whigg.cas.cn/)
+Jing Chen joined MIG in October 2021.
+He is now working on efficient numerical solver of Eikonal equation.

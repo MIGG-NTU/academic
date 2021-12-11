@@ -4,7 +4,7 @@ title: Shijie Hao
 
 # Username (this should match the folder name)
 authors:
-- shijiehao
+- Shijie Hao
 
 # Is this the primary user of the site?
 superuser: false
