@@ -21,8 +21,19 @@ organizations:
 bio:
 
 interests:
+- Seismotectonics
+- Seismic imaging
+- Geodynamics of Tibetan Plateau
+- Wavefield Simulation in Complex Media
 
 education:
+  courses:
+  - course: PhD in Geology
+    institution: Nanjing University
+    year: 2021
+  - course: MSc in Geophysics
+    institution: Nanjing University
+    year: 2016
 
 
 # Social/Academic Networking
@@ -33,9 +44,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: orcid
-#  icon_pack: ai
-#  link: http://orcid.org/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-8888-8523
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.hk/citations?user=AGBUZWoAAAAJ&hl=en&oi=ao
@@ -44,7 +55,8 @@ social:
   link: https://github.com/xumi1993
 - icon: envelope
   icon_pack: fas
-  link:   # For a direct email link, use "mailto:test@example.org".
+  link: mailto:mijian.xu@smail.nju.edu.cn
+# For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,4 +72,4 @@ user_groups:
 - Researchers
 ---
 
-[Mijian Xu](https://xumijian.me/) joined MIG in December 2021.
+[Mijian Xu](https://home.xumijian.me/) joined MIG in December 2021. He is Ph.D of seismology. He has long been investigating earth inner structures in the Tibet plateau and surrounding regions. He specializes in using receiver function technique to image earth discontinuities, velocity structures and anisotropies. He is an advocate of open source and developed the [Seispy](https://seispy.xumijian.me/), SplitRFLab in seismic data processing.
