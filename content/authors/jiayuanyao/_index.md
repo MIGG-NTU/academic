@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Fellow
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Nanyang Technological University
-  url: "https://www.ntu.edu.sg"
+- name: China University of Geosciences (Wuhan)
+  url: "https://www.cug.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -50,9 +50,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/core-man
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:jiayuanyao@ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+#   icon_pack: fas
+ #  link: 'mailto:jiayuanyao@ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,5 +68,5 @@ user_groups:
 - Alumni
 ---
 
-[Jiayuan Yao](https://www.ntu.edu.sg/home/jiayuanyao/) joined MIG as a research
-fellow in August 2018. He has been working on the project of **Seismic Imaging in Myanmar**. Now he is professor at China University of Geosciences (Wuhan).
+[Jiayuan Yao](http://grzy.cug.edu.cn/yaojiayuan/) joined MIG as a research fellow in August 2018.
+He has been working on the project of **Seismic Imaging in Myanmar**. Now he is a professor at China University of Geosciences (Wuhan).
