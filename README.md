@@ -53,3 +53,6 @@ license terms:
 0. Install prerequisite: `conda install -c conda-forge academic`.
 1. Download BibTeX file, then run `academic import --bibtex <path_to_your/publications.bib>`.
 2. New folder will be created in `content/publication/`. Change the folder name for clearness.
+
+## Upload to NTU domain
+Edit `config/_default/config.toml`, change `baseurl = "https://personal.ntu.edu.sg/tongping/"`.
