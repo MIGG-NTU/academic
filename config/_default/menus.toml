@@ -20,12 +20,12 @@
 
 [[main]]
   name = "Researches"
-  url = "#researches"
+  url = "researches/"
   weight = 30
 
 [[main]]
   name = "Softwares"
-  url = "#softwares"
+  url = "software/"
   weight = 40
 
 [[main]]
