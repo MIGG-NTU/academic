@@ -24,8 +24,8 @@
   weight = 30
 
 [[main]]
-  name = "Softwares"
-  url = "softwares/"
+  name = "Software"
+  url = "software/"
   weight = 40
 
 [[main]]
