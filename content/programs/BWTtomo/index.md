@@ -3,7 +3,7 @@ title: Body-wave Traveltime Tomography
 subtitle: ""
 summary: We develop ray-based and ray-free body-wave traveltime tomography methods to invert isotropic and anisotropic (azimuthal/radial anisotropy) velocities.
 tags:
-- SEM-FK
+- ATT
 date: "2020-10-10T00:00:00Z"
 weight: 10  # Order that this section will appear
 
