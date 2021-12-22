@@ -39,6 +39,26 @@ This is the source code for Mathematical Imaging and Geophysics Group at NTU.
 $ bash update_wowchemy.sh
 ```
 
+## Update publication
+
+0.  Install prerequisite:
+
+    ```
+    $ conda install -c conda-forge academic
+    ```
+
+1.  Download BibTeX file, then run:
+
+    ```
+    $ academic import --bibtex <path_to_your/publications.bib>
+    ```
+
+3.  New folder will be created in `content/publication/`. Change the folder name for clearness.
+
+## Upload to NTU domain
+
+Edit `config/_default/config.toml`, change `baseurl` to be "https://personal.ntu.edu.sg/tongping/".
+
 ## License
 
 This material uses [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.en).
@@ -47,12 +67,3 @@ license terms:
 
 - Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 - NonCommercial: You may not use the material for commercial purposes.
-
-## Update publication
-
-0. Install prerequisite: `conda install -c conda-forge academic`.
-1. Download BibTeX file, then run `academic import --bibtex <path_to_your/publications.bib>`.
-2. New folder will be created in `content/publication/`. Change the folder name for clearness.
-
-## Upload to NTU domain
-Edit `config/_default/config.toml`, change `baseurl = "https://personal.ntu.edu.sg/tongping/"`.
