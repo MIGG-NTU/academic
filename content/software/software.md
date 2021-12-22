@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Softwares"
+title = "Software"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "software"
+  page_type = "programs"
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -19,27 +19,27 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
 
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  #filter_default = 0
 
   [[content.filter_button]]
     name = "All"
     tag = "*"
 
 #  [[content.filter_button]]
-#    name = "SEM-FK"
-#    tag = "SEM-FK"
+#    name = "Mathematical Modelling and Inversion"
+#    tag = "Mathematical Modelling and Inversion"
 #
 #  [[content.filter_button]]
-#    name = "Fast Marching"
-#    tag = "FMM"
+#    name = "Earthquake Seismology"
+#    tag = "Earthquake Seismology"
 #
 #  [[content.filter_button]]
-#    name = "Seismic Anisotropy"
-#    tag = "Seismic Anisotropy"
+#    name = "Exploration Geophysics"
+#    tag = "Exploration Geophysics"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -79,4 +79,3 @@ subtitle = ""
  css_class = ""
 +++
 
-Those softwares are still under development and to be released soon. Please feel free to request for them, improve the codes, and send your feedback!
