@@ -1,38 +1,35 @@
 ---
 # Display name
-title: Shucheng Wu
+title: Fan Wu
 
 # Username (this should match the folder name)
 authors:
-- Shucheng Wu
+- Fan Wu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Fellow
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Nanyang Technological University
-  url: "https://www.ntu.edu.sg"
+- name: China University of Petroleum, Beijing
+  url: "https://www.cup.edu.cn/english/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
 - Seismic Imaging
-- Surface-wave Tomography
-- Tectonics
+- Anisotropic AVO inversion
+- Anisotropic rock physics
 
 education:
   courses:
-  - course: PhD in Geophysics
-    institution: Macquarie University
-    year: 2019
   - course: BSc in Geophysics
-    institution: China University of Geosciences (Wuhan)
-    year: 2013
+    institution: China University of Petroleum, Beijing
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +42,18 @@ social:
 #- icon: orcid
 #  icon_pack: ai
 #  link: http://orcid.org/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=-IBtE9AAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Shucheng-Wu
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:shucheng.wu@ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,13 +61,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Graduate Students
 ---
 
-[Shucheng Wu](https://sites.google.com/view/shuchengwu) joined MIG in August 2019.
-He is now working on ambient noise tomography of Myanmar.
+Fan Wu is now visiting MIG from 2021 November. He is working on machine learning techniques for sP seismic waves.
+
