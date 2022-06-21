@@ -44,18 +44,33 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-8888-8523
+- icon: globe
+  icon_pack: fas
+  link: https://home.xumijian.me
+- icon: blog
+  icon_pack: fas
+  link: "https://blog.xumijian.me"
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com.hk/citations?user=AGBUZWoAAAAJ&hl=en&oi=ao
+  link: "https://scholar.google.com/citations?user=AGBUZWoAAAAJ&hl=en"
+- icon: orcid
+  icon_pack: ai
+  link: "https://orcid.org/0000-0001-8888-8523"
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/2556046/mijian-xu/
+- icon: researchgate
+  icon_pack: ai
+  link: "https://www.researchgate.net/profile/Mijian_Xu"
 - icon: github
   icon_pack: fab
   link: https://github.com/xumi1993
+- icon: gitlab
+  icon_pack: fab
+  link: https://git.nju.edu.cn/xumi1993
 - icon: envelope
   icon_pack: fas
-  link: mailto:mijian.xu@smail.nju.edu.cn
+  link: mailto:mijian.xu@ntu.edu.sg
 # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
