@@ -21,10 +21,17 @@ organizations:
 bio:
 
 interests:
-
+- Seismic imaging
+- Subduction zone dynamics
 
 education:
-
+  courses:
+  - course: PhD in Solid Earth Physics
+    institution: Institute of Geology and Geophysics, Chinese Academy of Sciences
+    year: 2021
+  - course: BSc in Geophysics
+    institution: China University of Geoscience (Wuhan)
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,7 +59,12 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-
+- icon: envelope
+  icon_pack: fas
+  link: mailto:yiming.bai@ntu.edu.sg
+- icon: orcid
+  icon_pack: ai
+  link: "https://orcid.org/0000-0001-8710-8054"
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -62,4 +74,4 @@ user_groups:
 - Researchers
 ---
 
-Yiming Bai joined MIG in December 2021.
+Yiming joined MIGG in December 2021. His current research focus is on the seismic structure and dynamics of the crust and upper mantle beneath tectonically-complex regions, including Myanmar, SE Tibet and Java. 
