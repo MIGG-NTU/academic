@@ -50,6 +50,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:jing.chen@ntu.edu.sg"
+- icon: globe
+  icon_pack: fas
+  link: https://jingchen.netlify.app
 # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,5 +69,5 @@ user_groups:
 - Researchers
 ---
 
-Jing Chen joined MIG in October 2021.
+[Jing Chen](https://jingchen.netlify.app) joined MIG in October 2021.
 He is now working on efficient numerical solver of Eikonal equation.
