@@ -65,7 +65,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 Fan Wu is now visiting MIG from 2021 November. He is working on machine learning techniques for sP seismic waves.

@@ -21,10 +21,10 @@ organizations:
 bio:
 
 interests:
-- Seismotectonics
 - Seismic imaging
-- Geodynamics of Tibetan Plateau
+- Full-waveform inversion
 - Wavefield Simulation in Complex Media
+- Seismotectonics
 
 education:
   courses:

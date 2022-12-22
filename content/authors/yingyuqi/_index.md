@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: PhD
 
 # Organizations/Affiliations
 organizations:
@@ -64,8 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
-#- PhD Candidates
+- Alumni
 ---
 
 Yingyu Qi joined MIG in August 2017.
