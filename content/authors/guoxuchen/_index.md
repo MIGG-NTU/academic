@@ -61,7 +61,7 @@ email: "N2107136A@e.ntu.edu.sg"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 Guoxu Chen is now visiting MIG from 2021 Oct.

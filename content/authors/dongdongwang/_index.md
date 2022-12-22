@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Hefei University of Technology
-  url: "http://en.hfut.edu.cn/"
+- name: Nanyang Technological University
+  url: "https://www.ntu.edu.sg"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -59,8 +59,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
 ---
 
-Dongdong Wang visited MIG between 2019 September and 2020 September.
-During that period, he worked on seismic inversion of P and PmP arrival times.
+Dongdong Wang visited MIG between 2019 September and 2020 September. During that period, he worked on seismic inversion of P and PmP arrival times.
+
+He joined MIG in November 2021 as a Post-doctoral research fellow.
