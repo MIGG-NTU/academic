@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanjie Zhou | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/author/yanjie-zhou/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/author/yanjie-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanjie Zhou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png</url>
+      <title>Yanjie Zhou</title>
+      <link>https://MIGG-NTU.github.io/academic/author/yanjie-zhou/</link>
+    </image>
+    
+    <item>
+      <title>3D Nearly Analytic Central Difference Method for Computation of Sensitivity Kernels of Wave‐Equation‐Based Seismic Tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2016-bssa-huang/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2016-bssa-huang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

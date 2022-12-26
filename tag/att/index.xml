@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ATT | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/tag/att/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/tag/att/index.xml" rel="self" type="application/rss+xml" />
+    <description>ATT</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png</url>
+      <title>ATT</title>
+      <link>https://MIGG-NTU.github.io/academic/tag/att/</link>
+    </image>
+    
+    <item>
+      <title>Body-wave Traveltime Tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/programs/bwttomo/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/programs/bwttomo/</guid>
+      <description>&lt;p&gt;TODO&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

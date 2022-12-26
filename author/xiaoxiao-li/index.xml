@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoxiao Li | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/author/xiaoxiao-li/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/author/xiaoxiao-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoxiao Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Fri, 11 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiaoxiao Li</title>
+      <link>https://MIGG-NTU.github.io/academic/author/xiaoxiao-li/</link>
+    </image>
+    
+    <item>
+      <title>The ONAD method for solving the SH-wave equation and simulation of the SH-wave propagation in the Earth’s mantle</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2012-sces-li/</link>
+      <pubDate>Fri, 11 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2012-sces-li/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

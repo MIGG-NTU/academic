@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingrun Chen | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/author/jingrun-chen/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/author/jingrun-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jingrun Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Wed, 26 Nov 2014 01:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png</url>
+      <title>Jingrun Chen</title>
+      <link>https://MIGG-NTU.github.io/academic/author/jingrun-chen/</link>
+    </image>
+    
+    <item>
+      <title>Wave-equation-based travel-time seismic tomography – Part 2: Application to the 1992 Landers earthquake (Mw 7.3) area</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2014b-se-tong/</link>
+      <pubDate>Wed, 26 Nov 2014 01:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2014b-se-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave-equation-based travel-time seismic tomography – Part 1: Method</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2014a-se-tong/</link>
+      <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2014a-se-tong/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

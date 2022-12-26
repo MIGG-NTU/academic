@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meixia Wang | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/author/meixia-wang/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/author/meixia-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meixia Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Mon, 01 Apr 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png</url>
+      <title>Meixia Wang</title>
+      <link>https://MIGG-NTU.github.io/academic/author/meixia-wang/</link>
+    </image>
+    
+    <item>
+      <title>A High‐Order Stereo‐Modeling Method for Solving Wave Equations</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2013-bssa-tong/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2013-bssa-tong/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

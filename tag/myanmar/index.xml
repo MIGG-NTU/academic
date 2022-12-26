@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myanmar | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/tag/myanmar/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/tag/myanmar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Myanmar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png</url>
+      <title>Myanmar</title>
+      <link>https://MIGG-NTU.github.io/academic/tag/myanmar/</link>
+    </image>
+    
+    <item>
+      <title>New insights into the structural heterogeneity and geodynamics of the Indo-Burma subduction zone from ambient noise tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-epsl-wu/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-epsl-wu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

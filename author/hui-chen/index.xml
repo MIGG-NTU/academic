@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hui Chen | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/author/hui-chen/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/author/hui-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hui Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png</url>
+      <title>Hui Chen</title>
+      <link>https://MIGG-NTU.github.io/academic/author/hui-chen/</link>
+    </image>
+    
+    <item>
+      <title>Eikonal Equation‐Based Seismic Tomography of the Source Areas of the 2008 Mw 7.9 Wenchuan Earthquake and the 2013 Mw 6.6 Lushan Earthquake</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2020-li-bssa/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2020-li-bssa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

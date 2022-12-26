@@ -1,0 +1,1310 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.2.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Ping Tong" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Abstract Seismic anisotropy provides crucial information on the stress state and geodynamic processes inside the Earth. We develop a novel adjoint-state traveltime tomography method using P-wave traveltime data to simultaneously determine velocity heterogeneity and azimuthal anisotropy of the subsurface. First, an anisotropic eikonal equation is derived to model first-arrival traveltimes in azimuthally anisotropic media. Traveltime tomography is then formulated as an optimization problem constrained by the anisotropic eikonal equation, which is subsequently solved by the adjoint-state method. Ray tracing is not required. Its high accuracy is achieved by solving the anisotropic eikonal equation and the associated adjoint equation with efficient numerical solvers. In addition, an eikonal equation-based earthquake location method for azimuthally anisotropic media is developed to solve the coupled hypocenter-velocity problem. The tomography and earthquake location methods are applied to central California near Parkfield to test their performance in practice. A total of 1,068,850 first P-wave traveltimes clearly maps the velocity heterogeneity and azimuthal anisotropy in the upper and middle crust. The average P-wave velocity model shows a striking velocity contrast across the San Andreas Fault (SAF). In the upper crust, we find structural anisotropy in the SAF zone and stress-induced anisotropy off the SAF zone. In the middle crust, the fast P-wave velocity directions are generally fault-parallel due to the decreased effect of the maximum horizontal compressive stress. In all, the real-data application suggests that the new adjoint-state traveltime tomography method can be reliably used to investigate anisotropic seismic structures." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://MIGG-NTU.github.io/academic/publication/2021b-jgr-tong/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/academic/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/academic/css/wowchemy.e6f7b650e2d80724e28cce23c674926c.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/academic/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_180x180_fill_lanczos_center_2.png" />
+
+  <link rel="canonical" href="https://MIGG-NTU.github.io/academic/publication/2021b-jgr-tong/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="MIGG" />
+  <meta property="og:url" content="https://MIGG-NTU.github.io/academic/publication/2021b-jgr-tong/" />
+  <meta property="og:title" content="Adjoint-State Traveltime Tomography for Azimuthally Anisotropic Media and Insight Into the Crustal Structure of Central California Near Parkfield | MIGG" />
+  <meta property="og:description" content="Abstract Seismic anisotropy provides crucial information on the stress state and geodynamic processes inside the Earth. We develop a novel adjoint-state traveltime tomography method using P-wave traveltime data to simultaneously determine velocity heterogeneity and azimuthal anisotropy of the subsurface. First, an anisotropic eikonal equation is derived to model first-arrival traveltimes in azimuthally anisotropic media. Traveltime tomography is then formulated as an optimization problem constrained by the anisotropic eikonal equation, which is subsequently solved by the adjoint-state method. Ray tracing is not required. Its high accuracy is achieved by solving the anisotropic eikonal equation and the associated adjoint equation with efficient numerical solvers. In addition, an eikonal equation-based earthquake location method for azimuthally anisotropic media is developed to solve the coupled hypocenter-velocity problem. The tomography and earthquake location methods are applied to central California near Parkfield to test their performance in practice. A total of 1,068,850 first P-wave traveltimes clearly maps the velocity heterogeneity and azimuthal anisotropy in the upper and middle crust. The average P-wave velocity model shows a striking velocity contrast across the San Andreas Fault (SAF). In the upper crust, we find structural anisotropy in the SAF zone and stress-induced anisotropy off the SAF zone. In the middle crust, the fast P-wave velocity directions are generally fault-parallel due to the decreased effect of the maximum horizontal compressive stress. In all, the real-data application suggests that the new adjoint-state traveltime tomography method can be reliably used to investigate anisotropic seismic structures." /><meta property="og:image" content="https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-12-09T08:44:32&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-12-09T16:44:32&#43;08:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://MIGG-NTU.github.io/academic/publication/2021b-jgr-tong/"
+  },
+  "headline": "Adjoint-State Traveltime Tomography for Azimuthally Anisotropic Media and Insight Into the Crustal Structure of Central California Near Parkfield",
+  
+  "datePublished": "2021-12-09T08:44:32Z",
+  "dateModified": "2021-12-09T16:44:32+08:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Ping Tong"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "MIGG",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Abstract Seismic anisotropy provides crucial information on the stress state and geodynamic processes inside the Earth. We develop a novel adjoint-state traveltime tomography method using P-wave traveltime data to simultaneously determine velocity heterogeneity and azimuthal anisotropy of the subsurface. First, an anisotropic eikonal equation is derived to model first-arrival traveltimes in azimuthally anisotropic media. Traveltime tomography is then formulated as an optimization problem constrained by the anisotropic eikonal equation, which is subsequently solved by the adjoint-state method. Ray tracing is not required. Its high accuracy is achieved by solving the anisotropic eikonal equation and the associated adjoint equation with efficient numerical solvers. In addition, an eikonal equation-based earthquake location method for azimuthally anisotropic media is developed to solve the coupled hypocenter-velocity problem. The tomography and earthquake location methods are applied to central California near Parkfield to test their performance in practice. A total of 1,068,850 first P-wave traveltimes clearly maps the velocity heterogeneity and azimuthal anisotropy in the upper and middle crust. The average P-wave velocity model shows a striking velocity contrast across the San Andreas Fault (SAF). In the upper crust, we find structural anisotropy in the SAF zone and stress-induced anisotropy off the SAF zone. In the middle crust, the fast P-wave velocity directions are generally fault-parallel due to the decreased effect of the maximum horizontal compressive stress. In all, the real-data application suggests that the new adjoint-state traveltime tomography method can be reliably used to investigate anisotropic seismic structures."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Adjoint-State Traveltime Tomography for Azimuthally Anisotropic Media and Insight Into the Crustal Structure of Central California Near Parkfield | MIGG</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="e910cde6e5e6961d825da0e762cbbbf8" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/academic/js/wowchemy-init.min.b8153d4570dcbb34350a2a846dba8c03.js"></script>
+
+  
+
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/academic/">MIGG</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/academic/">MIGG</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/academic/#intro"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/academic/#news"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/academic/#people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/academic/researches/"><span>Researches</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/academic/software/"><span>Software</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/academic/publication/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/academic/courses/"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://migg-ntu.github.io/MIG_Docs/group-meeting/" target="_blank" rel="noopener"><span>Groupmeeting</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://migg-ntu.github.io/MIG_Docs/" target="_blank" rel="noopener"><span>Docs</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/academic/positions"><span>Positions</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/academic/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Adjoint-State Traveltime Tomography for Azimuthally Anisotropic Media and Insight Into the Crustal Structure of Central California Near Parkfield</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/academic/author/ping-tong/">Ping Tong</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/academic/publication/2021b-jgr-tong/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/https://doi.org/10.1029/2021JB022365" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JB022365" target="_blank" rel="noopener">
+    
+    URL
+  </a>
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Abstract Seismic anisotropy provides crucial information on the stress state and geodynamic processes inside the Earth. We develop a novel adjoint-state traveltime tomography method using P-wave traveltime data to simultaneously determine velocity heterogeneity and azimuthal anisotropy of the subsurface. First, an anisotropic eikonal equation is derived to model first-arrival traveltimes in azimuthally anisotropic media. Traveltime tomography is then formulated as an optimization problem constrained by the anisotropic eikonal equation, which is subsequently solved by the adjoint-state method. Ray tracing is not required. Its high accuracy is achieved by solving the anisotropic eikonal equation and the associated adjoint equation with efficient numerical solvers. In addition, an eikonal equation-based earthquake location method for azimuthally anisotropic media is developed to solve the coupled hypocenter-velocity problem. The tomography and earthquake location methods are applied to central California near Parkfield to test their performance in practice. A total of 1,068,850 first P-wave traveltimes clearly maps the velocity heterogeneity and azimuthal anisotropy in the upper and middle crust. The average P-wave velocity model shows a striking velocity contrast across the San Andreas Fault (SAF). In the upper crust, we find structural anisotropy in the SAF zone and stress-induced anisotropy off the SAF zone. In the middle crust, the fast P-wave velocity directions are generally fault-parallel due to the decreased effect of the maximum horizontal compressive stress. In all, the real-data application suggests that the new adjoint-state traveltime tomography method can be reliably used to investigate anisotropic seismic structures.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/academic/publication/#2">
+              Journal article
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>Journal of Geophysical Research: Solid Earth</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://MIGG-NTU.github.io/academic/publication/2021b-jgr-tong/&amp;text=Adjoint-State%20Traveltime%20Tomography%20for%20Azimuthally%20Anisotropic%20Media%20and%20Insight%20Into%20the%20Crustal%20Structure%20of%20Central%20California%20Near%20Parkfield" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://MIGG-NTU.github.io/academic/publication/2021b-jgr-tong/&amp;t=Adjoint-State%20Traveltime%20Tomography%20for%20Azimuthally%20Anisotropic%20Media%20and%20Insight%20Into%20the%20Crustal%20Structure%20of%20Central%20California%20Near%20Parkfield" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Adjoint-State%20Traveltime%20Tomography%20for%20Azimuthally%20Anisotropic%20Media%20and%20Insight%20Into%20the%20Crustal%20Structure%20of%20Central%20California%20Near%20Parkfield&amp;body=https://MIGG-NTU.github.io/academic/publication/2021b-jgr-tong/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://MIGG-NTU.github.io/academic/publication/2021b-jgr-tong/&amp;title=Adjoint-State%20Traveltime%20Tomography%20for%20Azimuthally%20Anisotropic%20Media%20and%20Insight%20Into%20the%20Crustal%20Structure%20of%20Central%20California%20Near%20Parkfield" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Adjoint-State%20Traveltime%20Tomography%20for%20Azimuthally%20Anisotropic%20Media%20and%20Insight%20Into%20the%20Crustal%20Structure%20of%20Central%20California%20Near%20Parkfield%20https://MIGG-NTU.github.io/academic/publication/2021b-jgr-tong/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://MIGG-NTU.github.io/academic/publication/2021b-jgr-tong/&amp;title=Adjoint-State%20Traveltime%20Tomography%20for%20Azimuthally%20Anisotropic%20Media%20and%20Insight%20Into%20the%20Crustal%20Structure%20of%20Central%20California%20Near%20Parkfield" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+  
+
+  
+  <p class="powered-by">
+    © 2020 MIGG
+  </p>
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/latex.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/academic/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/academic/en/js/wowchemy.min.b942d4f634624df3820cfbb6af624897.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

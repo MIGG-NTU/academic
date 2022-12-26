@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimitri Komatitsch | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/author/dimitri-komatitsch/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/author/dimitri-komatitsch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dimitri Komatitsch</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Sun, 12 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png</url>
+      <title>Dimitri Komatitsch</title>
+      <link>https://MIGG-NTU.github.io/academic/author/dimitri-komatitsch/</link>
+    </image>
+    
+    <item>
+      <title>A 3‐D spectral‐element and frequency‐wave number hybrid method for high‐resolution seismic array imaging</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2014-grl-tong/</link>
+      <pubDate>Sun, 12 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2014-grl-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution seismic array imaging based on an SEM-FK hybrid method</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2014-gji-tong/</link>
+      <pubDate>Sat, 11 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2014-gji-tong/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao Wu | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/author/hao-wu/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/author/hao-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hao Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png</url>
+      <title>Hao Wu</title>
+      <link>https://MIGG-NTU.github.io/academic/author/hao-wu/</link>
+    </image>
+    
+    <item>
+      <title>Adjoint Tomography of Northeast Japan Revealed by Common‐Source Double‐Difference Travel‐Time Data</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2022-srl-chen/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2022-srl-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quasi-waveform seismic tomography of crustal structures in the capital circle region of China</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-sciencechinaearthsciences-huang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-sciencechinaearthsciences-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The auxiliary function method for waveform based earthquake location</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2020-chen-jcp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2020-chen-jcp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

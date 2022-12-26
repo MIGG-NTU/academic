@@ -1,0 +1,18 @@
+{
+  "name": "MIGG",
+  "short_name": "MIGG",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/academic/?utm_source=web_app_manifest"
+}

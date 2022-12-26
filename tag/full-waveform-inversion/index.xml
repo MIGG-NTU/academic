@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>full-waveform inversion | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/tag/full-waveform-inversion/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/tag/full-waveform-inversion/index.xml" rel="self" type="application/rss+xml" />
+    <description>full-waveform inversion</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png</url>
+      <title>full-waveform inversion</title>
+      <link>https://MIGG-NTU.github.io/academic/tag/full-waveform-inversion/</link>
+    </image>
+    
+    <item>
+      <title>Adjoint Tomography of Ambient Noise Data and Teleseismic P Waves: Methodology and Applications to Central California</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-jgr-wang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-jgr-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic pumping for mineralizaiton in southern Fujian, Cathaysia Block: New insights from a teleseismic full waveform inversion</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-ogr-zhang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-ogr-zhang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

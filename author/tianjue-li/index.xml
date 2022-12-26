@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianjue Li | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/author/tianjue-li/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/author/tianjue-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tianjue Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png</url>
+      <title>Tianjue Li</title>
+      <link>https://MIGG-NTU.github.io/academic/author/tianjue-li/</link>
+    </image>
+    
+    <item>
+      <title>Elongated Magma Plumbing System Beneath the Coso Volcanic Field, California, Constrained by Seismic Reflection Tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2022-jgr-wang/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2022-jgr-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lower crust structures and dynamics of southern California revealed by first P and PmP traveltime data</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2022-tectonophysics-wu/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2022-tectonophysics-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Neural Networks for Creating Reliable PmP Database With a Case Study in Southern California</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2022-jgr-ding/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2022-jgr-ding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imaging the Upper 10 km Crustal Shear‐Wave Velocity Structure of Central Myanmar via a Joint Inversion of P‐Wave Polarizations and Receiver Functions</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2022-srl-yao/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2022-srl-yao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moho Complexity in Southern California Revealed by Local PmP and Teleseismic Ps Waves</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-jgr-li/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-jgr-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crustal Rotation and Fluids: Factors for the 2019 Ridgecrest Earthquake Sequence?</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-grl-tong/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-grl-tong/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

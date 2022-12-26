@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iman Suardi | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/author/iman-suardi/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/author/iman-suardi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iman Suardi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png</url>
+      <title>Iman Suardi</title>
+      <link>https://MIGG-NTU.github.io/academic/author/iman-suardi/</link>
+    </image>
+    
+    <item>
+      <title>Seismic velocity and anisotropy tomography of southern Sumatra</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-pepi-liu/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-pepi-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Geometry of the Subducted Slab Beneath Sumatra Revealed by Regional and Teleseismic Traveltime Tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-jgr-liu/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-jgr-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slab morphology beneath northern Sumatra revealed by regional and teleseismic traveltime tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2019-jgr-liu/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2019-jgr-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teleseismic Traveltime Tomography of Northern Sumatra</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2018-grl-liu/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2018-grl-liu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongxin Gao | MIGG</title>
+    <link>https://MIGG-NTU.github.io/academic/author/yongxin-gao/</link>
+      <atom:link href="https://MIGG-NTU.github.io/academic/author/yongxin-gao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yongxin Gao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hu379f0c768146698a3c7c9971a365cea0_51762_512x512_fill_lanczos_center_2.png</url>
+      <title>Yongxin Gao</title>
+      <link>https://MIGG-NTU.github.io/academic/author/yongxin-gao/</link>
+    </image>
+    
+    <item>
+      <title>Elongated Magma Plumbing System Beneath the Coso Volcanic Field, California, Constrained by Seismic Reflection Tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2022-jgr-wang/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2022-jgr-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electroseismic and seismoelectric responses at irregular interfaces: Possible application to reservoir exploration</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-jpse-wang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-jpse-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic responses to an earthquake source in stratified transversely isotropic porous media</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-gp-sun/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-gp-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of seismoelectric waves using finite-difference frequency-domain method: 2D SHTE mode</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2018-gji-gao/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2018-gji-gao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
